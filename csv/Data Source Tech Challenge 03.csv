@@ -1,0 +1,127 @@
+Bairro,Periodo,valor_m2_novo,valor_m2_existente,taxa_inflacao_nacional,taxa_juros_emprestimo_nacional,indice_preco_habitacao_alojamento_novo,indice_preco_habitacao_alojamento_existente,taxa_desemprego_16_a_74_anos
+Bonfim,2019T4,2574,1705,0.37,1.06,"130,27","151,48",6.9
+Campanhã,2019T4,1789,1231,0.37,1.06,"130,27","151,48",6.9
+Paranhos,2019T4,1865,1534,0.37,1.06,"130,27","151,48",6.9
+Ramalde,2019T4,1759,1592,0.37,1.06,"130,27","151,48",6.9
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2019T4,3351,2453,0.37,1.06,"130,27","151,48",6.9
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2019T4,2739,1784,0.37,1.06,"130,27","151,48",6.9
+União das freguesias de Lordelo do Ouro e Massarelos,2019T4,3100,2113,0.37,1.06,"130,27","151,48",6.9
+Bonfim,2020T1,2591,1705,0.33,1.05,"134,99","157,37",6.8
+Campanhã,2020T1,2068,1209,0.33,1.05,"134,99","157,37",6.8
+Paranhos,2020T1,1861,1577,0.33,1.05,"134,99","157,37",6.8
+Ramalde,2020T1,1643,1667,0.33,1.05,"134,99","157,37",6.8
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2020T1,3766,2473,0.33,1.05,"134,99","157,37",6.8
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2020T1,2922,1844,0.33,1.05,"134,99","157,37",6.8
+União das freguesias de Lordelo do Ouro e Massarelos,2020T1,3289,2154,0.33,1.05,"134,99","157,37",6.8
+Bonfim,2020T2,2507,1691,0.13,1.10,"136,94","160,28",5.7
+Campanhã,2020T2,2099,1208,0.13,1.10,"136,94","160,28",5.7
+Paranhos,2020T2,1861,1667,0.13,1.10,"136,94","160,28",5.7
+Ramalde,2020T2,1708,1701,0.13,1.10,"136,94","160,28",5.7
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2020T2,4044,2559,0.13,1.10,"136,94","160,28",5.7
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2020T2,2940,1844,0.13,1.10,"136,94","160,28",5.7
+União das freguesias de Lordelo do Ouro e Massarelos,2020T2,3300,2190,0.13,1.10,"136,94","160,28",5.7
+Bonfim,2020T3,2550,1692,0.10,1.00,"136,57","159,44",8.0
+Campanhã,2020T3,,1250,0.10,1.00,"136,57","159,44",8.0
+Paranhos,2020T3,2145,1667,0.10,1.00,"136,57","159,44",8.0
+Ramalde,2020T3,1750,1717,0.10,1.00,"136,57","159,44",8.0
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2020T3,4117,2543,0.10,1.00,"136,57","159,44",8.0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2020T3,2940,1872,0.10,1.00,"136,57","159,44",8.0
+União das freguesias de Lordelo do Ouro e Massarelos,2020T3,3342,2281,0.10,1.00,"136,57","159,44",8.0
+Bonfim,2020T4,2608,1639,0.03,0.84,"140,27","163,64",7.3
+Campanhã,2020T4,,1351,0.03,0.84,"140,27","163,64",7.3
+Paranhos,2020T4,2338,1688,0.03,0.84,"140,27","163,64",7.3
+Ramalde,2020T4,1794,1747,0.03,0.84,"140,27","163,64",7.3
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2020T4,3957,2612,0.03,0.84,"140,27","163,64",7.3
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2020T4,3038,2057,0.03,0.84,"140,27","163,64",7.3
+União das freguesias de Lordelo do Ouro e Massarelos,2020T4,3550,2325,0.03,0.84,"140,27","163,64",7.3
+Bonfim,2021T1,2666,1666,-0.03,0.79,"142,35","168,40",7.3
+Campanhã,2021T1,3359,1351,-0.03,0.79,"142,35","168,40",7.3
+Paranhos,2021T1,2392,1717,-0.03,0.79,"142,35","168,40",7.3
+Ramalde,2021T1,2373,1813,-0.03,0.79,"142,35","168,40",7.3
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2021T1,3861,2656,-0.03,0.79,"142,35","168,40",7.3
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2021T1,3076,2026,-0.03,0.79,"142,35","168,40",7.3
+União das freguesias de Lordelo do Ouro e Massarelos,2021T1,3472,2347,-0.03,0.79,"142,35","168,40",7.3
+Bonfim,2021T2,2699,1683,0.20,0.83,"146,63","173,24",6.9
+Campanhã,2021T2,2770,1404,0.20,0.83,"146,63","173,24",6.9
+Paranhos,2021T2,2469,1732,0.20,0.83,"146,63","173,24",6.9
+Ramalde,2021T2,2529,1841,0.20,0.83,"146,63","173,24",6.9
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2021T2,3948,2657,0.20,0.83,"146,63","173,24",6.9
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2021T2,3068,2000,0.20,0.83,"146,63","173,24",6.9
+União das freguesias de Lordelo do Ouro e Massarelos,2021T2,3650,2355,0.20,0.83,"146,63","173,24",6.9
+Bonfim,2021T3,2683,1750,0.50,0.81,"152,50","177,71",6.2
+Campanhã,2021T3,2842,1424,0.50,0.81,"152,50","177,71",6.2
+Paranhos,2021T3,2522,1769,0.50,0.81,"152,50","177,71",6.2
+Ramalde,2021T3,2503,1866,0.50,0.81,"152,50","177,71",6.2
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2021T3,4034,2745,0.50,0.81,"152,50","177,71",6.2
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2021T3,3228,2137,0.50,0.81,"152,50","177,71",6.2
+União das freguesias de Lordelo do Ouro e Massarelos,2021T3,3699,2389,0.50,0.81,"152,50","177,71",6.2
+Bonfim,2021T4,2917,1836,1.03,"0,82","155,12","183,18",6.4
+Campanhã,2021T4,2907,1535,1.03,"0,82","155,12","183,18",6.4
+Paranhos,2021T4,2591,1820,1.03,"0,82","155,12","183,18",6.4
+Ramalde,2021T4,2416,1953,1.03,"0,82","155,12","183,18",6.4
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2021T4,4121,2877,1.03,"0,82","155,12","183,18",6.4
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2021T4,3195,2193,1.03,"0,82","155,12","183,18",6.4
+União das freguesias de Lordelo do Ouro e Massarelos,2021T4,3669,2396,1.03,"0,82","155,12","183,18",6.4
+Bonfim,2022T1,3035,1916,1.83,0.90,"157,93","191,26",6.1
+Campanhã,2022T1,2831,1572,1.83,0.90,"157,93","191,26",6.1
+Paranhos,2022T1,2623,1861,1.83,0.90,"157,93","191,26",6.1
+Ramalde,2022T1,2371,1963,1.83,0.90,"157,93","191,26",6.1
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2022T1,4353,3085,1.83,0.90,"157,93","191,26",6.1
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2022T1,3208,2214,1.83,0.90,"157,93","191,26",6.1
+União das freguesias de Lordelo do Ouro e Massarelos,2022T1,3142,2412,1.83,0.90,"157,93","191,26",6.1
+Bonfim,2022T2,3022,2074,3.43,1.27,"158,91","198,66",5.9
+Campanhã,2022T2,2891,1598,3.43,1.27,"158,91","198,66",5.9
+Paranhos,2022T2,2646,1943,3.43,1.27,"158,91","198,66",5.9
+Ramalde,2022T2,2427,2010,3.43,1.27,"158,91","198,66",5.9
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2022T2,4431,3116,3.43,1.27,"158,91","198,66",5.9
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2022T2,3306,2379,3.43,1.27,"158,91","198,66",5.9
+União das freguesias de Lordelo do Ouro e Massarelos,2022T2,3009,2439,3.43,1.27,"158,91","198,66",5.9
+Bonfim,2022T3,3145,2157,5.33,2.04,"165,31","203,82",6.0
+Campanhã,2022T3,2831,1652,5.33,2.04,"165,31","203,82",6.0
+Paranhos,2022T3,2732,2044,5.33,2.04,"165,31","203,82",6.0
+Ramalde,2022T3,2440,2021,5.33,2.04,"165,31","203,82",6.0
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2022T3,4253,3245,5.33,2.04,"165,31","203,82",6.0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2022T3,3368,2375,5.33,2.04,"165,31","203,82",6.0
+União das freguesias de Lordelo do Ouro e Massarelos,2022T3,2963,2554,5.33,2.04,"165,31","203,82",6.0
+Bonfim,2022T4,3179,2236,7.23,3.06,"	166,10","206,38",6.6
+Campanhã,2022T4,2730,1671,7.23,3.06,"	166,10","206,38",6.6
+Paranhos,2022T4,2677,2106,7.23,3.06,"	166,10","206,38",6.6
+Ramalde,2022T4,2533,2022,7.23,3.06,"	166,10","206,38",6.6
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2022T4,4576,3248,7.23,3.06,"	166,10","206,38",6.6
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2022T4,3462,2447,7.23,3.06,"	166,10","206,38",6.6
+União das freguesias de Lordelo do Ouro e Massarelos,2022T4,3010,2681,7.23,3.06,"	166,10","206,38",6.6
+Bonfim,2023T1,3254,2225,8.50,3.55,"	166,99","209,72",7.2
+Campanhã,2023T1,2390,1720,8.50,3.55,"	166,99","209,72",7.2
+Paranhos,2023T1,2674,2156,8.50,3.55,"	166,99","209,72",7.2
+Ramalde,2023T1,2606,2128,8.50,3.55,"	166,99","209,72",7.2
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2023T1,4345,3282,8.50,3.55,"	166,99","209,72",7.2
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2023T1,3544,2603,8.50,3.55,"	166,99","209,72",7.2
+União das freguesias de Lordelo do Ouro e Massarelos,2023T1,3476,2653,8.50,3.55,"	166,99","209,72",7.2
+Bonfim,2023T2,3365,2233,8.2,4.09,"171,59","216,50",6.1
+Campanhã,2023T2,2399,1738,8.2,4.09,"171,59","216,50",6.1
+Paranhos,2023T2,2767,2254,8.2,4.09,"171,59","216,50",6.1
+Ramalde,2023T2,2625,2195,8.2,4.09,"171,59","216,50",6.1
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2023T2,4299,3504,8.2,4.09,"171,59","216,50",6.1
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2023T2,3571,2769,8.2,4.09,"171,59","216,50",6.1
+União das freguesias de Lordelo do Ouro e Massarelos,2023T2,3606,2689,8.2,4.09,"171,59","216,50",6.1
+Bonfim,2023T3,3395,2319,6.80,4.24,"174,95","220,36",6.1
+Campanhã,2023T3,3012,1744,6.80,4.24,"174,95","220,36",6.1
+Paranhos,2023T3,2950,2321,6.80,4.24,"174,95","220,36",6.1
+Ramalde,2023T3,2636,2332,6.80,4.24,"174,95","220,36",6.1
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2023T3,4576,3548,6.80,4.24,"174,95","220,36",6.1
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2023T3,3664,2806,6.80,4.24,"174,95","220,36",6.1
+União das freguesias de Lordelo do Ouro e Massarelos,2023T3,3659,2685,6.80,4.24,"174,95","220,36",6.1
+Bonfim,2023T4,3373,2400,5.00,4.20,"177,59","223,19",6.6
+Campanhã,2023T4,3115,1871,5.00,4.20,"177,59","223,19",6.6
+Paranhos,2023T4,3112,2372,5.00,4.20,"177,59","223,19",6.6
+Ramalde,2023T4,2725,2433,5.00,4.20,"177,59","223,19",6.6
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2023T4,4199,3578,5.00,4.20,"177,59","223,19",6.6
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2023T4,3764,2813,5.00,4.20,"177,59","223,19",6.6
+União das freguesias de Lordelo do Ouro e Massarelos,2023T4,3719,2668,5.00,4.20,"177,59","223,19",6.6
+Bonfim,2024T1,3298,2469,3.33,3.95,"176,24","225,65",6.8
+Campanhã,2024T1,3238,1856,3.33,3.95,"176,24","225,65",6.8
+Paranhos,2024T1,3214,2395,3.33,3.95,"176,24","225,65",6.8
+Ramalde,2024T1,2823,2520,3.33,3.95,"176,24","225,65",6.8
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",2024T1,4944,3842,3.33,3.95,"176,24","225,65",6.8
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",2024T1,3835,2831,3.33,3.95,"176,24","225,65",6.8
+União das freguesias de Lordelo do Ouro e Massarelos,2024T1,3701,2797,3.33,3.95,"176,24","225,65",6.8
