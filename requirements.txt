@@ -2,3 +2,8 @@ matplotlib
 numpy
 pandas
 scikit-learn
+requests
+pytest
+streamlit
+
+
