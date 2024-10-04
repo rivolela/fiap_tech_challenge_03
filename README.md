@@ -14,8 +14,8 @@ Caso não seja oneroso, criar filtros por região e tipo de imóvel.
 ## 3 - Notebook
 
 Ainda em desenvolvimento:
-https://colab.research.google.com/drive/1ddEYw6tDER6-j9I09H7P9UM9RFex6z4O?usp=sharing
 
+[Notebook Colab](https://colab.research.google.com/drive/1ddEYw6tDER6-j9I09H7P9UM9RFex6z4O?usp=sharing)
 
 ## 4 - Install
 
